@@ -6,7 +6,6 @@
 * ReactJS
 * ExpressJS
 * NodeJS
-* LowDb
 * Axios
 * Cors
 
