@@ -1,5 +1,8 @@
 # Memesto
+
 **Crio Winter of Doing, Stage-2B**
+MemeGen is a web application where the user gives an image as input and our tool generates a meme at one click for the user
+ad You can also add the Admin name here and  caption for the Meme
 
 **Tech Stack used:**
 
